@@ -1,0 +1,3 @@
+- Array is a collection of data storage locations, each having the same data type and the same name
+	- Single Dimensional Array
+	- 2-Dimensional Arrays
