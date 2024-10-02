@@ -3,7 +3,7 @@
 ```bash
 git -v
 ```
-\
+
 - Show the configurations
 ```bash
 git config -l
